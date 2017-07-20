@@ -138,6 +138,7 @@ img {
 
         .top-nav ul li a {
             font-family: 'gandhi_sansregular';
+            font-size: 2em;
             color: #2a323a;
             padding: 20px;
             display: block;
@@ -174,7 +175,7 @@ img {
     .grid1 p a, .grid1 p {
         font-family: 'gandhi_sansregular';
         color: #FFF;
-        font-size: 1.2em;
+        font-size: 1.3em;
         line-height: 1.5em;
     }
 
